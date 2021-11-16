@@ -627,7 +627,12 @@ INSERT INTO calificacion(CODE_CALIFICACION,code_matricula,id_pensum,estado,nota1
 VALUES ('CAL09','MAT12','CLS39','','7','7');
 INSERT INTO calificacion(CODE_CALIFICACION,code_matricula,id_pensum,estado,nota1,nota2)
 VALUES ('CAL10','MAT32','CLS31','','5','4');
-
+INSERT INTO calificacion(CODE_CALIFICACION,code_matricula,id_pensum,estado,nota1,nota2)
+VALUES ('CAL11','MAT35','CLS45','','10','10');
+INSERT INTO calificacion(CODE_CALIFICACION,code_matricula,id_pensum,estado,nota1,nota2)
+VALUES ('CAL12','MAT35','CLS46','','5','6');
+INSERT INTO calificacion(CODE_CALIFICACION,code_matricula,id_pensum,estado,nota1,nota2)
+VALUES ('CAL13','MAT10','CLS29','','5','4');
 
 
 
